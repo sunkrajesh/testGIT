@@ -4,4 +4,8 @@ first edit
 
 second edit
 
+
 new branch
+=======
+Master new
+
